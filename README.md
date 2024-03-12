@@ -18,4 +18,6 @@ Exemplo:
 
 rc -> Release candidate
 
+https://semver.org/
+
 ------------------------------
