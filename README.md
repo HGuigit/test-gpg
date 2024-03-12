@@ -1,4 +1,5 @@
 
+
 ------------------------------
 
 SEMVER (Semantical versioning)
@@ -21,3 +22,23 @@ rc -> Release candidate
 https://semver.org/
 
 ------------------------------
+
+Conventional Commits
+
+https://www.conventionalcommits.org/pt-br/v1.0.0/#resumo
+
+prefix: fix:, feat:, build:, chore:, ci:, docs: ... (Olhar docs)
+
+MODELO: 
+
+|||
+
+<tipo(prefix)>[escopo opcional]: <descrição>
+
+[corpo opcional]
+
+[rodapé(s) opcional(is)]
+
+|||
+
+
